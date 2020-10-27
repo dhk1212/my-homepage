@@ -14,7 +14,7 @@
         src="~/assets/images/dd.jpg"
         alt="cute agi picture"
       />
-      <p class="max-w-screen-md mt-8 self-center">
+      <p class="max-w-screen-md mt-8 p-4 self-center">
         5th Semester IT-Systems Engineering student, future software developer.
         My passion for computer science brought me to the Hasso Plattner
         Plattner Institut in Potsdam. Until last semester I completed Software

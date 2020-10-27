@@ -3,9 +3,9 @@
     <h1 class="font-bold text-center text-4xl mb-8 tracking-widest">
       Projects
     </h1>
-    <div class="flex flex-row justify-center">
+    <div class="flex flex-col lg:flex-row justify-center items-center">
       <div
-        class="project-container m-8 bg-white rounded overflow-hidden shadow"
+        class="project-container max-w-xs md:max-w-full m-8 bg-white rounded overflow-hidden shadow"
       >
         <div class="project-container__image-container relative">
           <img
@@ -35,7 +35,7 @@
         </div>
       </div>
       <div
-        class="project-container m-8 bg-white mb-8 rounded overflow-hidden shadow"
+        class="project-container max-w-xs md:max-w-full m-8 bg-white mb-8 rounded overflow-hidden shadow"
       >
         <div class="project-container__image-container relative">
           <img
@@ -63,7 +63,7 @@
         </div>
       </div>
       <div
-        class="project-container m-8 bg-white rounded overflow-hidden shadow"
+        class="project-container max-w-xs md:max-w-full m-8 bg-white rounded overflow-hidden shadow"
       >
         <div class="project-container__image-container relative">
           <img
@@ -75,7 +75,7 @@
             class="absolute left-0 top-0 bg-white transition-opacity duration-500 ease-in-out h-full p-4 opacity-0 hover:opacity-100"
           >
             <div class="flex h-full items-center">
-              <p>
+              <p class="text-sm md:text-base">
                 This project is about building an arduino robot with light
                 sensors, which can differentiate three different colors (black,
                 gray, white). In this project, I learnt how motors and gears
