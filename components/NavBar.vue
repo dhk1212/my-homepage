@@ -19,7 +19,7 @@
           d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z"
         />
       </svg>
-      <nuxt-link to="/" class="text-primary">About Me</nuxt-link>
+      <a v-scroll-to="'#aboutme'" href="#" class="text-primary">About Me</a>
       <svg
         class="w-5 ml-6 mr-2"
         xmlns="http://www.w3.org/2000/svg"
@@ -35,6 +35,21 @@
         />
       </svg>
       <a v-scroll-to="'#resume'" href="#" class="text-primary">Resume</a>
+      <svg
+        class="w-5 ml-6 mr-2"
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
+        />
+      </svg>
+      <a v-scroll-to="'#skills'" href="#" class="text-primary">Skills</a>
       <svg
         class="w-5 ml-6 mr-2"
         xmlns="http://www.w3.org/2000/svg"

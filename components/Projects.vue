@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-light_cyan h-auto pb-16 pt-8">
+  <div id="projects" class="bg-light_cyan h-auto pb-16 pt-8">
     <h1 class="font-bold text-center text-4xl mb-8 tracking-widest">
       Projects
     </h1>
@@ -19,14 +19,13 @@
             <div class="flex h-full items-center">
               <p class="text-black">
                 In this project, I had to use a haptic device that enables blind
-                users to continously track the absolute position of moving
-                objects in spatial virtual environments. With DualPanto I had to
-                create either an application that would be helpful for the blind
-                users or games that is possible to play by blind users. I
-                created Super Mario using Unity Engine. It was a great
-                experience, because I learnt the process of building a small
-                game targeting for a small group of users(in my case for blind
-                users.)
+                users to continuously track the absolute position of moving
+                objects in virtual environments. With DualPanto I had to create
+                either an application that would be helpful for the blind users
+                or games that are possible to play by blind users. I created
+                Super Mario using Unity Engine. It was a great experience as I
+                learnt the process of creating a small game with a small group
+                of intended target users (in my case, for blind users.)
               </p>
             </div>
           </div>
@@ -50,11 +49,11 @@
             <div class="flex h-full items-center">
               <p>
                 In this project, we had to build a group of five people and
-                built a model, which recommends similar songs based on a given
+                built a model, which recommends similar songs based on given
                 input songs. We had to demonstrate our system by showcasing
-                recommendations for various famous titles. We tried to an
+                recommendations for various famous titles. We tried to build an
                 autoencoder to get the encodings, based on which we can compare
-                songs. Most focus of this project was Deep Learning.
+                songs. The focus of this project was Deep Learning.
               </p>
             </div>
           </div>
@@ -78,15 +77,15 @@
             <div class="flex h-full items-center">
               <p>
                 This project is about building an arduino robot with light
-                sensonrs, which had to differenciate three different
-                colors(black, gray, white). In this project, I learnt how motors
-                and gears work and how wheels can smoothly turn with less
-                friction. The goal of this project was, the arduino robot would
-                be placed on the black, white and gray pattern circle map and
-                had to find the middle of the circle and had to stop exact on
-                the circle spot. I had a lot of fun building a robot myself with
-                arduino and even had a chance to design my own robot using 3D
-                printer and laser cutter.
+                sensors, which can differentiate three different colors (black,
+                gray, white). In this project, I learnt how motors and gears
+                work and how wheels were able to turn smoothly with the minimum
+                friction. The objective of this project was, to place the on the
+                on the black, white and gray patterned circle map, then identify
+                the center of the circle and stop exactly on the circle spot. I
+                had a lot of fun building a robot by myself with arduino and
+                even had a chance to design my own robot using a 3D printer and
+                a laser cutter.
               </p>
             </div>
           </div>

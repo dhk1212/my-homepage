@@ -8,12 +8,12 @@
         </h2>
         <div class="p-4 flex flex-row">
           <div class="text-xl p-3 w-64">
-            <p class="font-bold">Muwon Elementary School in Korea</p>
+            <p class="font-bold">Muwon Elementary School in South Korea</p>
             <p class="text-colar_pink font-semibold">2001-2007</p>
           </div>
           <div class="flex items-center ml-20 max-w-screen-sm">
             <p>
-              studied basic acedemic learning(korean language, math, science,
+              I studied basic academic learning (korean language, math, science,
               social studies PE, Music, etc.) and socialization skills.
             </p>
           </div>
@@ -21,12 +21,17 @@
         <div class="p-4 flex flex-row">
           <div class="text-xl p-3 w-64">
             <p class="font-bold">
-              Lighthouse International School in Southkorea
+              Lighthouse International School in South korea
             </p>
             <p class="text-colar_pink font-semibold">2007-2010</p>
           </div>
           <div class="flex items-center ml-20 max-w-screen-sm">
-            <p>studied all of the subjects in English.</p>
+            <p>
+              I studied all of the subjects in English in this school. In this
+              school, I could experience different culture and different
+              education system. It was a good experience and I met a lot of nice
+              people there.
+            </p>
           </div>
         </div>
         <div class="p-4 flex flex-row">
@@ -36,8 +41,8 @@
           </div>
           <div class="flex items-center ml-20 max-w-screen-sm">
             <p>
-              I graduated highschool, where I enjoyed learning science,
-              economics, PE and arts(especially Photoshop class).
+              I graduated high school, where I enjoyed learning science,
+              economics, PE and arts (especially Photoshop class).
             </p>
           </div>
         </div>
@@ -51,11 +56,11 @@
           </div>
           <div class="flex items-center ml-20 max-w-screen-sm">
             <p>
-              This is a pre-universtiy, which is 12 grade in Canada. In this
-              year, I figured out, that I want to study science related
-              subject(Bioengineering) and in this school I met a german
+              This is a pre-university, which is 12 grade in Canada. In this
+              year, I figured out, that I want to study science related subject
+              subject (Bioengineering) and in this school I met a german
               professor, who told me about science in Germany. In this year, I
-              planned to come Germany.
+              planned to come to Germany.
             </p>
           </div>
         </div>
@@ -68,10 +73,10 @@
           </div>
           <div class="flex items-center ml-20 max-w-screen-sm">
             <p>
-              At TU Berlin, I learnt for the first time programming
-              language(pascal) and figrued out, that I am having so much fun
-              writing code. While I was doing Studienkolleg at TU Berlin, I
-              decided to study IT-Systems Engineering at HPI.
+              At TU Berlin, I learnt for the first time a programming language
+              (pascal) and figured out, that I am having so much fun writing
+              code. While I was doing Studienkolleg at TU Berlin, I decided to
+              study IT-Systems Engineering at HPI.
             </p>
           </div>
         </div>
@@ -85,8 +90,7 @@
           <div class="flex items-center ml-20 max-w-screen-sm">
             <p>
               Currently, I am studying at Hasso Plattner Institut learning
-              IT-Systems Engineering. I am in 5th Semester and almost done with
-              University.
+              IT-Systems Engineering. I am in 5th Semester.
             </p>
           </div>
         </div>

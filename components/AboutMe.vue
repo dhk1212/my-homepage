@@ -17,11 +17,11 @@
       <p class="max-w-screen-md mt-8 self-center">
         5th Semester IT-Systems Engineering student, future software developer.
         My passion for computer science brought me to the Hasso Plattner
-        Plattner Institution in Potsdam. Until last semester I completed
-        Software Technic Course, which covers software life cycle, traditional
+        Plattner Institut in Potsdam. Until last semester I completed Software
+        Technic Course, which covers software life cycle, traditional
         development processes, extreme programming, debugging, etc. I love
         spending time to learn how to make my skills better and my current focus
-        of learning is how to develop web(HTML, CSS, Jacascript).
+        of learning is how to develop web (HTML, CSS, Javascript).
       </p>
     </div>
   </div>
