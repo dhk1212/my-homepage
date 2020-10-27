@@ -11,7 +11,7 @@
     <div class="container mx-auto flex justify-center flex-col">
       <img
         class="rounded-full h-64 w-64 place-self-center ml-2 mr-8"
-        src="@/assets/images/dd.jpg"
+        src="~/assets/images/dd.jpg"
         alt="cute agi picture"
       />
       <p class="max-w-screen-md mt-8 self-center">

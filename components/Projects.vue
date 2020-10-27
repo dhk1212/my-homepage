@@ -10,7 +10,7 @@
         <div class="project-container__image-container relative">
           <img
             class="project-container__image"
-            src="@/assets/images/BISProject.jpg"
+            src="~/assets/images/BISProject.jpg"
             alt=""
           />
           <div
@@ -41,7 +41,7 @@
         <div class="project-container__image-container relative">
           <img
             class="project-container__image"
-            src="@/assets/images/DLProject.jpg"
+            src="~/assets/images/DLProject.jpg"
             alt=""
           />
           <div
@@ -68,7 +68,7 @@
       >
         <div class="project-container__image-container relative">
           <img
-            src="@/assets/images/BIDProject.JPG"
+            src="~/assets/images/BIDProject.jpg"
             alt=""
             class="project-container__image"
           />
